@@ -1,0 +1,10 @@
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Release\Skate.csproj.GenerateResource.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Release\Skate.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Release\Skate.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\bin\Release\Skate.exe.config
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\bin\Release\Skate.exe
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\bin\Release\Skate.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Release\Skate.Properties.Resources.resources
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Release\Skate.exe
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Release\Skate.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Release\Skate.Form1.resources

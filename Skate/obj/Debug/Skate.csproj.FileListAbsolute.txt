@@ -1,0 +1,52 @@
+C:\Users\I hate windows\Documents\My Code\Unfinished\Skate\Skate\obj\Debug\Skate.csprojAssemblyReference.cache
+C:\Users\I hate windows\Documents\My Code\Unfinished\Skate\Skate\obj\Debug\Skate.Form1.resources
+C:\Users\I hate windows\Documents\My Code\Unfinished\Skate\Skate\obj\Debug\Skate.Properties.Resources.resources
+C:\Users\I hate windows\Documents\My Code\Unfinished\Skate\Skate\obj\Debug\Skate.csproj.GenerateResource.cache
+C:\Users\I hate windows\Documents\My Code\Unfinished\Skate\Skate\bin\Debug\Skate.exe.config
+C:\Users\I hate windows\Documents\My Code\Unfinished\Skate\Skate\bin\Debug\Skate.exe
+C:\Users\I hate windows\Documents\My Code\Unfinished\Skate\Skate\bin\Debug\Skate.pdb
+C:\Users\I hate windows\Documents\My Code\Unfinished\Skate\Skate\obj\Debug\Skate.exe
+C:\Users\I hate windows\Documents\My Code\Unfinished\Skate\Skate\obj\Debug\Skate.pdb
+C:\Users\I hate windows\Documents\My Code\Unfinished\Skate\Skate\bin\Debug\Properties\Resources.resx
+C:\Users\I hate windows\Documents\My Code\Unfinished\Skate\Skate\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\mi\Documents\Projects\Skate\Skate\bin\Debug\Properties\Resources.resx
+C:\Users\mi\Documents\Projects\Skate\Skate\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\mi\Documents\Projects\Skate\Skate\bin\Debug\Skate.exe.config
+C:\Users\mi\Documents\Projects\Skate\Skate\bin\Debug\Skate.exe
+C:\Users\mi\Documents\Projects\Skate\Skate\bin\Debug\Skate.pdb
+C:\Users\mi\Documents\Projects\Skate\Skate\obj\Debug\Skate.csprojAssemblyReference.cache
+C:\Users\mi\Documents\Projects\Skate\Skate\obj\Debug\Skate.Form1.resources
+C:\Users\mi\Documents\Projects\Skate\Skate\obj\Debug\Skate.Properties.Resources.resources
+C:\Users\mi\Documents\Projects\Skate\Skate\obj\Debug\Skate.csproj.GenerateResource.cache
+C:\Users\mi\Documents\Projects\Skate\Skate\obj\Debug\Skate.exe
+C:\Users\mi\Documents\Projects\Skate\Skate\obj\Debug\Skate.pdb
+C:\Users\I hate windows\Documents\My Code\Completed Projects\sk8\Skate\Skate\bin\Debug\Properties\Resources.resx
+C:\Users\I hate windows\Documents\My Code\Completed Projects\sk8\Skate\Skate\bin\Debug\Properties\Resources.Designer.cs
+C:\Users\I hate windows\Documents\My Code\Completed Projects\sk8\Skate\Skate\bin\Debug\Skate.exe.config
+C:\Users\I hate windows\Documents\My Code\Completed Projects\sk8\Skate\Skate\bin\Debug\Skate.exe
+C:\Users\I hate windows\Documents\My Code\Completed Projects\sk8\Skate\Skate\bin\Debug\Skate.pdb
+C:\Users\I hate windows\Documents\My Code\Completed Projects\sk8\Skate\Skate\obj\Debug\Skate.csprojAssemblyReference.cache
+C:\Users\I hate windows\Documents\My Code\Completed Projects\sk8\Skate\Skate\obj\Debug\Skate.Form1.resources
+C:\Users\I hate windows\Documents\My Code\Completed Projects\sk8\Skate\Skate\obj\Debug\Skate.Properties.Resources.resources
+C:\Users\I hate windows\Documents\My Code\Completed Projects\sk8\Skate\Skate\obj\Debug\Skate.csproj.GenerateResource.cache
+C:\Users\I hate windows\Documents\My Code\Completed Projects\sk8\Skate\Skate\obj\Debug\Skate.exe
+C:\Users\I hate windows\Documents\My Code\Completed Projects\sk8\Skate\Skate\obj\Debug\Skate.pdb
+C:\Users\I hate windows\Documents\My Code\Completed Projects\Skate\Skate\obj\Debug\Skate.csprojAssemblyReference.cache
+C:\Users\I hate windows\Documents\My Code\Completed Projects\Skate\Skate\obj\Debug\Skate.exe
+C:\Users\I hate windows\Documents\My Code\Completed Projects\Skate\Skate\obj\Debug\Skate.pdb
+C:\Users\I hate windows\Documents\Code\Completed Projects\Skate\Skate\obj\Debug\Skate.csprojAssemblyReference.cache
+C:\Users\I hate windows\Documents\Code\Completed Projects\Skate\Skate\obj\Debug\Skate.exe
+C:\Users\I hate windows\Documents\Code\Completed Projects\Skate\Skate\obj\Debug\Skate.pdb
+C:\Users\507\Documents\Code\Completed Projects\Skate\Skate\obj\Debug\Skate.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Completed Projects\Skate\Skate\obj\Debug\Skate.exe
+C:\Users\507\Documents\Code\Completed Projects\Skate\Skate\obj\Debug\Skate.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Debug\Skate.csprojAssemblyReference.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Debug\Skate.csproj.GenerateResource.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Debug\Skate.csproj.CoreCompileInputs.cache
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Debug\Skate.exe
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Debug\Skate.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\bin\Debug\Skate.exe.config
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\bin\Debug\Skate.exe
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\bin\Debug\Skate.pdb
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Debug\Skate.Properties.Resources.resources
+C:\Users\507\Documents\Code\Completed Projects\Solutions\Skate\Skate\obj\Debug\Skate.Form1.resources
